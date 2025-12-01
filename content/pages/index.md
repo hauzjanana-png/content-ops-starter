@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: 'Desain Interior yang Mudah, Cepat, dan Terjangkau'
       color: text-dark
     subtitle: ''
     text: |+
