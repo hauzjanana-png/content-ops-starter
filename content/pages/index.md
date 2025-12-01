@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: 'Vemdpr Interior yang Mudah, Cepat, dan Terjangkau'
+      text: 'Vendor Interior yang Mudah, Cepat, dan Terjangkau'
       color: text-dark
     subtitle: ''
     text: |+
