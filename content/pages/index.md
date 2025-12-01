@@ -13,7 +13,7 @@ sections:
       Solusi Desain yang Tepat dan Fungsional untuk Setiap Ruang di Rumah Anda
 
     actions:
-      - label: Get started
+      - label: Mulai
         altText: ''
         url: /
         showIcon: false
