@@ -404,7 +404,7 @@ sections:
           width: full
           type: EmailFormControl
         - name: Jelaskan kebutuhan anda
-          label: Message
+          label: Jelaskan kebutuhan anda
           hideLabel: true
           placeholder: Jelaskan kebutuhan anda
           width: full
