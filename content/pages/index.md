@@ -405,7 +405,7 @@ sections:
           type: EmailFormControl
         - name: Jelaskan kebutuhan anda
           label: Jelaskan kebutuhan anda
-          hideLabel: true
+          hideLabel: false
           placeholder: Jelaskan kebutuhan anda
           width: full
           type: TextareaFormControl
