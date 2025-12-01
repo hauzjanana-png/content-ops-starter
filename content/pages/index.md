@@ -50,7 +50,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Desain Praktis dan Fungsional
-        subtitle: Numbers Done
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
