@@ -399,7 +399,7 @@ sections:
         - name: email
           label: Email
           hideLabel: true
-          placeholder: Your email
+          placeholder: Kontak WA
           isRequired: false
           width: full
           type: EmailFormControl
