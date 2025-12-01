@@ -397,7 +397,7 @@ sections:
           width: full
           type: TextFormControl
         - name: WA
-          label: Email
+          label: WA
           hideLabel: true
           placeholder: Kontak WA
           isRequired: false
