@@ -50,10 +50,11 @@ sections:
     items:
       - title: Proses Cepat
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          Kami menyelesaikan proyek desain interior dengan efisien, memastikan
+          hasil yang cepat tanpa mengorbankan kualitas.
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
