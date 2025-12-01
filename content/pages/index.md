@@ -382,7 +382,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
+      text: Beritahu kami kebutuhan interior anda
       color: text-dark
       type: TitleBlock
     subtitle: ''
