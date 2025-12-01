@@ -136,7 +136,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: rEADYMADE BY NOIR LIVING
+      label: Sebelum memulai interior
       color: text-primary
       styles:
         self:
