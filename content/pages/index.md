@@ -107,11 +107,9 @@ sections:
       - type: FeaturedItem
         title: Pengalaman dan Keahlian
         subtitle: ''
-        text: >+
-
-          Dengan pengalaman lebih dari 100 project selesai, kami menghadirkan
-          solusi desain yang tepat sesuai kebutuhan dan anggaran Anda.
-
+        text: >
+          Dengan pengalaman lebih dari 8 tahun, kami menghadirkan solusi desain
+          yang tepat sesuai kebutuhan dan anggaran Anda.
         image:
           type: ImageBlock
           url: /images/icon1.svg
