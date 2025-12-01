@@ -406,7 +406,7 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Your message
+          placeholder: Jelaskan kebutuhan anda
           width: full
           type: TextareaFormControl
       elementId: contact-form
