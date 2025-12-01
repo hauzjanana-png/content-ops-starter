@@ -46,7 +46,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: 'Solusi Desain Interior Cepat, Terjangkau, dan Berkualitas'
     items:
       - type: FeaturedItem
         title: 500k
