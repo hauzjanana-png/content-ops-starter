@@ -403,7 +403,7 @@ sections:
           isRequired: false
           width: full
           type: EmailFormControl
-        - name: message
+        - name: Jelaskan kebutuhan anda
           label: Message
           hideLabel: true
           placeholder: Jelaskan kebutuhan anda
