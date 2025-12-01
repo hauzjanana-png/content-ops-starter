@@ -44,7 +44,7 @@
             "links": [
                 {
                     "label": "Custom Interior",
-                    "url": "/",
+                    "url": "/Custominterior",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
