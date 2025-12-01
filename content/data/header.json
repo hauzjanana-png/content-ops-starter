@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Kontak",
-            "url": "/services",
+            "url": "/Contact",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
