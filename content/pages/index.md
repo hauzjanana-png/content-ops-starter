@@ -400,7 +400,7 @@ sections:
           label: Email
           hideLabel: true
           placeholder: Your email
-          isRequired: true
+          isRequired: false
           width: full
           type: EmailFormControl
         - name: message
