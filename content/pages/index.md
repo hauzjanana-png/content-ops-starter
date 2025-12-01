@@ -4,9 +4,9 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Solusi Desain Interior Terjangkau dan Berkualitas.
-      color: text-dark
       type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
     subtitle: ''
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
