@@ -77,10 +77,11 @@ sections:
       - type: FeaturedItem
         title: Desain Praktis dan Fungsional
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          Desain kami mengutamakan fungsionalitas dan kenyamanan, memaksimalkan
+          penggunaan ruang dengan tampilan yang menarik.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
