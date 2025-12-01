@@ -44,7 +44,7 @@
                 "url": "/https://maps.app.goo.gl/bnDQaFAbmmyTpKVH9",
                 "icon": "arrowRight",
                 "iconPosition": "left",
-                "style": "secondary",
+                "style": "primary",
                 "type": "Link"
             }
         ],
