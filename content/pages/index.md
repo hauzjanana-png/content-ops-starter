@@ -163,7 +163,7 @@ sections:
         textAlign: center
   - subtitle: Beberapa contoh project kami
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/photo-angle-portrait-1.png
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
