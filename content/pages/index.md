@@ -107,10 +107,11 @@ sections:
       - type: FeaturedItem
         title: Pengalaman dan Keahlian
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          Dengan pengalaman lebih dari 100 project selesai, kami menghadirkan
+          solusi desain yang tepat sesuai kebutuhan dan anggaran Anda.
+
         image:
           type: ImageBlock
           url: /images/icon1.svg
