@@ -49,7 +49,7 @@ sections:
     subtitle: 'Solusi Desain Interior Cepat, Terjangkau, dan Berkualitas'
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Desain Praktis dan Fungsional
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
