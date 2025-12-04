@@ -77,7 +77,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Custom - Premium Elevated
-        price: '2.500'
+        price: 2.500 / m2
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
