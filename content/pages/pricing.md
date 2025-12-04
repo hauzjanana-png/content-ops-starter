@@ -12,7 +12,7 @@ sections:
     subtitle: This is the subtitle for the pricing section
     plans:
       - title: ReadyMade by Noir Living
-        price: 1.800.000
+        price: 1.800.000/m2
         details: Start from (per m2/m1)
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
