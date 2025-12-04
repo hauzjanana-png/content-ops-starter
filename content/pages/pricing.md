@@ -44,7 +44,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Custom - Minimalis
+      - title: Custom - Essential
         price: 2.200 / m2
         details: Start from (per m2/m1)
         description: >-
