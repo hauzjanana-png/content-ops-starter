@@ -75,7 +75,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Custom -
+      - title: Custom - Premium Elevated
         price: Custom
         details: per month
         description: >-
