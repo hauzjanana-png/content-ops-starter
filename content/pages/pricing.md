@@ -76,7 +76,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Custom - Premium Elevated
+      - title: Custom - Elevated
         price: 2.500 / m2
         details: per month
         description: >-
