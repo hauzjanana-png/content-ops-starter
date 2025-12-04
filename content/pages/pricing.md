@@ -46,7 +46,7 @@ sections:
         type: PricingPlan
       - title: Custom - Minimalis
         price: 2.200 / m2
-        details: per month
+        details: Start from (per m2/m1)
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
