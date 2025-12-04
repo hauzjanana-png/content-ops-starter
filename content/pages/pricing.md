@@ -18,7 +18,7 @@ sections:
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
         features:
-          - Feature one
+          - Bahan dasar blockboard
           - Feature two
           - Feature three
           - Feature four
