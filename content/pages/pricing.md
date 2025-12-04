@@ -77,7 +77,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Custom - Premium Elevated
-        price: Custom
+        price: '2.600'
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
